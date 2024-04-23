@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\CARD\obj\Debug\CARD.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CARD\obj\Debug\CARD.Properties.Resources.resources
+C:\Users\User\source\repos\CARD\obj\Debug\CARD.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CARD\obj\Debug\CARD.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CARD\bin\Debug\CARD.exe.config
+C:\Users\User\source\repos\CARD\bin\Debug\CARD.exe
+C:\Users\User\source\repos\CARD\bin\Debug\CARD.pdb
+C:\Users\User\source\repos\CARD\obj\Debug\CARD.exe
+C:\Users\User\source\repos\CARD\obj\Debug\CARD.pdb
+C:\Users\User\source\repos\CARD\obj\Debug\CARD.Form1.resources
+C:\Users\User\source\repos\CARD\obj\Debug\CARD.Form2.resources
+C:\Users\User\source\repos\CARD\obj\Debug\CARD.Form3.resources
+C:\Users\User\source\repos\CARD\obj\Debug\CARD.Form4.resources
