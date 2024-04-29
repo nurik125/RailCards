@@ -41,8 +41,11 @@ namespace CARD
                 }
                 else
                 {
-                    this.Close();
-                    DataError = true;
+                    if(i == LogAndPas.Length / 2 - 1)
+                    {
+                        DataError = true;
+                        this.Close();
+                    }
                 }
             }
         }

@@ -18,7 +18,7 @@ namespace CARD
     {
         public Image PokerChips;
         public Image bookIcon; 
-        Form3 form3 = new Form3 ();
+        Form3 form3 = new Form3();
         public Label Count = new Label();
         public bool OponentCardSelectEnable = false;
         public Button[] PlayerCards = new Button[4];
